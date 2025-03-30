@@ -3,7 +3,7 @@
 
 ---
 
-## 🌟 About Me  
+## 🔹 About Me 🔹
 - 💡 AI & Cloud Enthusiast | Full Stack Developer   
 - 🎯 Passionate about coding & solving real-world problems  
 - 🎓 Learning new technologies & contributing to open source  
