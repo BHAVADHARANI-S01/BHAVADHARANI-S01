@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Bhavadharani S  
 🚀 Passionate about AI, Cloud Computing, Full Stack, and Coding   
 
-<img src="https://your-image-url.com/banner.png" alt="Bhavadharani's Banner" width="100%">
-
 ---
 
 ## 🌟 About Me  
@@ -40,17 +38,10 @@
 
 ---
 
-## 📝 Latest Articles  
-- [How AI is Revolutionizing Healthcare](https://your-blog-link.com)  
-- [Getting Started with Cloud Computing](https://your-blog-link.com)  
-
 ---
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github)](https://your-portfolio-link.com)  
-
 ---
 
 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
