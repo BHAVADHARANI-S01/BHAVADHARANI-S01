@@ -16,4 +16,4 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHAVADHARANI-S01&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVADHARANI-S01&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVADHARANI-S01&langs_count=6&exclude_repo=repo1,repo2&layout=compact&theme=radical)
