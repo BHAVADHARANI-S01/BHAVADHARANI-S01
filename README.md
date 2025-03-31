@@ -28,12 +28,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVADHARANI-S01&langs_count=6&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHAVADHARANI-S01&theme=radical)  
 
----
-
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BHAVADHARANI-S01&theme=radical&no-bg=true&no-frame=true&margin-w=4)
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
