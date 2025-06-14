@@ -28,11 +28,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVADHARANI-S01&langs_count=6&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BHAVADHARANI-S01&theme=radical)  
 
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-
----
-
-💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
-
